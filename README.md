@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Weixin Image_20231012141454.jpg" alt="Ayman Asaad">
+  <alt"Ayman Asaad">
 </p>
 
 <h1 align="center">Ayman Asaad</h1>
