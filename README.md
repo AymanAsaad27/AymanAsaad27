@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_profile_picture_link_here" alt="Ayman Asaad">
+  <img src="Weixin Image_20231012141454.jpg" alt="Ayman Asaad">
 </p>
 
 <h1 align="center">Ayman Asaad</h1>
