@@ -19,7 +19,7 @@ I'm a software engineer turned AI researcher based in Shanghai. I recently gradu
 
 My work sits at the intersection of **LLMs, trustworthy AI, and scalable systems**. I've fine-tuned open-source models for medical QA, built big-data pipelines with Spark, written smart contracts in Solidity, and shipped analytics features for a SaaS product.
 
-- 🔭 **Currently:** research in Blockchain and Fintech at Fudan, and building AI agent projects
+- 🔭 **Currently:** Research in Blockchain and Fintech at Fudan, and building AI agent projects
 - 🧪 **Published:** *Navigating the Labyrinth: A Review of Explainability and Trustworthiness in LLM-Powered Systems for Sensitive Decision-Making* (Scientia: Technology, Science and Society, 2025)
 - 🎯 **Looking for:** AI engineering / applied research opportunities and collaborations
 
@@ -35,7 +35,6 @@ My work sits at the intersection of **LLMs, trustworthy AI, and scalable systems
 | **[Smart Dormitory System](#)** | Desktop management app with role-based access, payments, room allocation and reporting; layered architecture over a normalized MySQL schema. | C#, .NET WinForms, MySQL |
 | **[Email & Contact Scraper](#)** | Modular scraper for JS-rendered pages with pagination handling, regex validation and Excel export. | Python, Selenium, BeautifulSoup, Pandas |
 
-> 📌 Replace each `#` with the repo link, and pin your best repos on your profile.
 
 ---
 
