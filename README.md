@@ -15,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineer turned AI researcher based in Shanghai. I recently graduated from **Sichuan University** (Outstanding Graduate, Top Ten Star) and started my Professional Master's in **Artificial Intelligence at Fudan University** on a **Chinese Government Scholarship (CSC Type A)**, joining the **FD-LAMT lab** (Music AI, MIR, speech processing, audio security) under Prof. Li Wei.
+I'm a software engineer turned AI researcher based in Shanghai. I recently graduated from **Sichuan University** (Outstanding Graduate, Top Ten Star) and started my Professional Master's in **Artificial Intelligence at Fudan University** on a **Chinese Government Scholarship**, 
 
 My work sits at the intersection of **LLMs, trustworthy AI, and scalable systems**. I've fine-tuned open-source models for medical QA, built big-data pipelines with Spark, written smart contracts in Solidity, and shipped analytics features for a SaaS product.
 
-- 🔭 **Currently:** research in audio/speech AI at Fudan, and building AI agent projects
+- 🔭 **Currently:** research in Blockchain and Fintech at Fudan, and building AI agent projects
 - 🧪 **Published:** *Navigating the Labyrinth: A Review of Explainability and Trustworthiness in LLM-Powered Systems for Sensitive Decision-Making* (Scientia: Technology, Science and Society, 2025)
 - 🎯 **Looking for:** AI engineering / applied research opportunities and collaborations
 
